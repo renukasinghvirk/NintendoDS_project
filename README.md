@@ -1,5 +1,12 @@
 # Remple Tun
 
+<p align="center">
+  <img src=remple_tun.jpg width="380">
+<p align="center"
+</p>
+Fig.1 : Remple Tun.
+</p>
+
 **Remple Tun** is a dynamic side-scrolling adventure game for the Nintendo DS. Players collect coins, dodge obstacles, and explore levels with distinct graphics and themes. This project was developed as part of the **EE-310 Microprogrammed Embedded Systems** course at **EPFL**.
 
 ---
