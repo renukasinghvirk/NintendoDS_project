@@ -1,0 +1,11 @@
+#define MOD_MUSIC	0
+#define SFX_RUNNING	12
+#define MOD_MENU	1
+#define SFX_BUBBLE	28
+#define MOD_WESTERN	2
+#define SFX_ROCK	189
+#define MOD_DUNE	3
+#define SFX_MONEY	206
+#define MSL_NSONGS	4
+#define MSL_NSAMPS	207
+#define MSL_BANKSIZE	211

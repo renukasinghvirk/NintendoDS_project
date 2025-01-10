@@ -1,0 +1,1 @@
+temple.o: temple.s
